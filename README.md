@@ -6,9 +6,9 @@
 **Created and owned by Harsh Paun.** Official website: https://zenith-mac.github.io/
 ### Mac reimagined. Dynamic Island for Mac.
 
-**1.3.1 · Free public beta · Apple silicon · macOS 26+**
+**2.0.0 · Free public beta · Apple silicon · macOS 26+**
 
-[**Download Zenith ↓**](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest/download/Zenith.dmg) · [Explore the website](https://zenith-mac.github.io/) · [Release notes](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/tag/v1.3.1)
+[**Download Zenith ↓**](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest/download/Zenith.dmg) · [Explore the website](https://zenith-mac.github.io/) · [Release notes](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/tag/v2.0.0)
 
 Developer ID signed by Harsh Paun and Apple-notarized.
 
@@ -40,24 +40,27 @@ The current DMG is approximately **388 MB**. It requires **Apple silicon and mac
 
 ## Updates that finish installing
 
-Zenith 1.3.1 includes a separate, signed **Zenith Updater**. After downloading and verifying an update, it can finish installation after Zenith closes. It replaces the app atomically and keeps the previous app until the new version launches. Settings stay in place. Automatic checks run at launch and periodically; manual **Check for Updates** remains in Settings.
+Zenith 2.0.0 includes a separate, signed **Zenith Updater**. After downloading and verifying an update, it can finish installation after Zenith closes. It replaces the app atomically and keeps the previous app until the new version launches. Settings stay in place. Automatic checks run at launch and periodically; manual **Check for Updates** remains in Settings.
 
 ### Already downloaded an update, but nothing installed?
 
 [**Download Zenith Updater ↓**](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest/download/Zenith-Updater.zip), unzip it, and open **Zenith Updater.app**. It fetches the latest signed release and installs it. No background daemon is needed.
 
-Keep Zenith online and in a writable Applications folder. The 1.3.1 release uses a stable/latest tag for older stable-only checkers.
+Keep Zenith online and in a writable Applications folder.
 
-## What’s new in 1.3.1
+## What’s new in 2.0.0 — The Full Redesign
 
-- **ProMotion 120Hz SpringBoard Paging**: Rebuilt Zenith Launcher trackpad swipe navigation with continuous Apple SpringBoard physics (`response: 0.38, dampingRatio: 0.86`), zero micro-jitter, and seamless subpixel velocity tracking.
-- **Mandatory Seamless Auto-Updater**: Zero-hassle background updater guarantees critical security, feature, and stability updates automatically.
-- **Hardened Gatekeeper & Developer ID Security**: Hardened runtime, Developer ID codesigned, Apple notarized, and stapled. Full binary scrubbing with zero machine path leakage and sealed encrypted asset vault.
-- **Enhanced Liquid Glass UI**: Refined physics and luminescent edge reflections across all panels.
+- **Ground-Up Settings Redesign**: Completely reimagined preferences experience crafted with Apple’s native glass materials, vibrant sidebars, and live desktop wallpaper previews.
+- **Borderless Lock Screen Music & Motion Art**: True edge-to-edge visuals with zero peripheral borders, full-screen motion art by default, waveform visualizer, and live lyrics.
+- **Enhanced Optical Face ID**: Kinetic multi-angle circular sweep enrollment and intelligent anti-spoofing defense.
+- **Private Apple Account Integration**: Hardware-backed Keychain security and seamless, private Sign in with Apple.
+- **Intuitive Gestures & Cross-Platform Sharing**: Drag & Shake quick action menu and Wi-Fi Beam local file sharing to any OS.
+- **Connected Gaming & Live AI Activity**: Minecraft Play Together peer-to-peer discovery and live AI agent task telemetry.
+- **System Failsafe Protection & Reliability**: Guaranteed hardware passthrough for volume/brightness keys, instant startup, and smooth multi-space navigation.
 
-[Full release notes and checksums →](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/tag/v1.3.1)
+[Full release notes and checksums →](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/tag/v2.0.0)
 
-## What was new in 1.3.0
+## What was new in 1.3.1
 
 - Saved device-specific Apple Music EQ, using Music’s official Equalizer controls.
 - Live keyboard previews and a user-paced onboarding Highlights chapter.

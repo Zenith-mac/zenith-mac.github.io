@@ -1,10 +1,10 @@
 # Zenith beta status
 
-## Latest release: 1.3.1 — October 24, 2026
+## Latest release: 2.0.0 — November 12, 2026
 
-ProMotion 120Hz SpringBoard Launcher swipe physics with zero micro-jitter, compulsory seamless background auto-updater, and Developer ID notarization.
+Zenith 2.0.0: The Full Redesign. Reimagined settings with liquid glass materials, true borderless lock-screen music, multi-angle kinetic Face ID enrollment, private Apple Account integration, 120 FPS motion, failsafe system watchdog, and Developer ID notarization.
 
-[Download Zenith](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest/download/Zenith.dmg) · [Release notes](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/tag/v1.3.1) · [Standalone updater](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest/download/Zenith-Updater.zip)
+[Download Zenith](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest/download/Zenith.dmg) · [Release notes](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/tag/v2.0.0) · [Standalone updater](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest/download/Zenith-Updater.zip)
 
 Automatic updates need a running, online Zenith and a writable installation. If an older build downloads but fails to install, open the separate Zenith Updater. Settings stay in place.
 
@@ -14,7 +14,7 @@ Automatic updates need a running, online Zenith and a writable installation. If 
 
 ## Download
 
-[Download Zenith 1.3.1](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest) from GitHub Releases. Open Zenith.dmg and move Zenith to Applications. The package is approximately 369 MB; the release notes include its SHA-256 checksum.
+[Download Zenith 2.0.0](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest) from GitHub Releases. Open Zenith.dmg and move Zenith to Applications. The package is approximately 382 MB; the release notes include its SHA-256 checksum.
 
 ## Requirements
 
