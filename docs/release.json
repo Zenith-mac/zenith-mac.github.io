@@ -1,9 +1,10 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "release": "https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/tag/v2.0.0",
   "download": "https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest/download/Zenith.dmg",
   "updater": "https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/latest/download/Zenith-Updater.zip",
   "sha256": "e5b6a3d0cd00100dca97090eee150d93889e43f3f1e5ee5cf69e1dd55537bf73",
   "dmg_sha256": "e5b6a3d0cd00100dca97090eee150d93889e43f3f1e5ee5cf69e1dd55537bf73",
-  "updater_sha256": "41e66af7278bd42ac89c7b68f55095ce0df49e2b37ede727b991e830a5984d14"
+  "updater_sha256": "41e66af7278bd42ac89c7b68f55095ce0df49e2b37ede727b991e830a5984d14",
+  "tag": "v2.0.1"
 }
