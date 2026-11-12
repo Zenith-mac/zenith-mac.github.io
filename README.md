@@ -62,6 +62,15 @@ Keep Zenith online and in a writable Applications folder.
 
 ## What was new in 1.3.1
 
+- **ProMotion 120Hz SpringBoard Paging**: Rebuilt Zenith Launcher trackpad swipe navigation with continuous Apple SpringBoard physics (`response: 0.38, dampingRatio: 0.86`), zero micro-jitter, and seamless subpixel velocity tracking.
+- **Mandatory Seamless Auto-Updater**: Zero-hassle background updater guarantees critical security, feature, and stability updates automatically.
+- **Hardened Gatekeeper & Developer ID Security**: Hardened runtime, Developer ID codesigned, Apple notarized, and stapled. Full binary scrubbing with zero machine path leakage and sealed encrypted asset vault.
+- **Enhanced Liquid Glass UI**: Refined physics and luminescent edge reflections across all panels.
+
+[Full release notes and checksums →](https://github.com/techgamewithharsh-dot/zenith-dynamic-notch/releases/tag/v1.3.1)
+
+## What was new in 1.3.0
+
 - Saved device-specific Apple Music EQ, using Music’s official Equalizer controls.
 - Live keyboard previews and a user-paced onboarding Highlights chapter.
 - Rebuilt Minecraft portal arrival, corrected sword grip and wider chase spacing.
